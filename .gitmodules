@@ -1,3 +1,6 @@
 [submodule "tutorial/tutorial/hai-ucl-hackathon"]
 	path = tutorial/tutorial/hai-ucl-hackathon
 	url = https://github.com/holistic-ai/hai-ucl-hackathon.git
+[submodule "EMGSD1"]
+	path = EMGSD1
+	url = https://huggingface.co/datasets/ucabtk1/EMGSD
