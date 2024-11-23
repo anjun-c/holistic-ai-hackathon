@@ -1,0 +1,3 @@
+[submodule "tutorial/tutorial/hai-ucl-hackathon"]
+	path = tutorial/tutorial/hai-ucl-hackathon
+	url = https://github.com/holistic-ai/hai-ucl-hackathon.git
